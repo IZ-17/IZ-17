@@ -1,4 +1,4 @@
 # Hi, I am Zafarbek 👋
 
 ### My Codewars Profile:
-[![Codewars Badge](https://codewars.com)](https://codewars.com)
+[![Codewars](https://shields.io)](https://codewars.com)
