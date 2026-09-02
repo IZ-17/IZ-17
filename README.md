@@ -1,4 +1,7 @@
 # Hi, I am Zafarbek 👋
 
 ### My Codewars Profile:
-[![Codewars](https://shields.io)](https://codewars.com)
+
+<a href="https://codewars.com" target="_blank">
+  <img src="https://shields.io" alt="Codewars" />
+</a>
