@@ -1,6 +1,7 @@
 # Hi, I am Zafarbek 👋
 
-### It is my statistics in Codewars:
-<img src="https://vercel.app" alt="Codewars Stats" />
+### My Codewars Statistics:
+![Codewars](https://r2v.ch)
 
+Дополнительная ссылка на профиль:
 [![Codewars Badge](https://codewars.com)](https://codewars.com)
