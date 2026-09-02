@@ -1,7 +1,9 @@
 # Hi, I am Zafarbek 👋
 
-### My Codewars Profile:
+## 🚀 My Developer Stats
+* 🥷 **Codewars Profile:** [iz-17](https://codewars.com)
+* 🏆 **Current Rank:** `4 kyu` (Python)
+* 🎯 **Completed Kata:** 150+
 
-<a href="https://codewars.com" target="_blank">
-  <img src="https://shields.io" alt="Codewars" />
-</a>
+---
+*Solved with passion and logged directly via Codewars.*
