@@ -1,4 +1,4 @@
 # Hi, I am Zafarbek 👋
 
 ### My Codewars Profile:
-[![Codewars Badge](https://codewars.com)](https://www.codewars.com/users/IZ-17)
+[![Codewars Badge](https://www.codewars.com/users/IZ-17)](https://www.codewars.com/users/IZ-17)
