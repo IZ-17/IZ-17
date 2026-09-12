@@ -13,5 +13,5 @@ Backend Developer in training, focused on mastering Python and algorithms.
 
 ### 🐍 Exercism
 * 🎓 **Exercism Profile:** [IZ-17](https://exercism.org)
-* 📂 **Solutions Archive:** [Exercism-Solutions](./../Exercism-Solutions)
+* 📂 **Solutions Archive:** [Exercism-Solutions](/Exercism-Solutions)
 * 🤖 *All exercises are automatically synced directly from the online editor.*
