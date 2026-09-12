@@ -1,10 +1,17 @@
 # Hi, I am Zafarbek 👋
 
-## 🚀 My Developer Stats
-* 💻 **Codewars Profile:** [IZ-17](https://www.codewars.com/users/IZ-17)
-* ⭐ **Current Rank:** `4 kyu` (Python)
-* 🔥 **Completed Kata:** 250+
+Backend Developer in training, focused on mastering Python and algorithms.
 
-[![Codewars Badge](https://www.codewars.com/users/IZ-17/badges/large)](https://www.codewars.com/users/IZ-17)
----
-*Solved with passion and logged directly via Codewars.*
+## 🚀 My Developer Stats
+
+### 🥋 Codewars
+* 💻 **Codewars Profile:** [IZ-17](https://codewars.com)
+* ⭐ **Current Rank:** 4 kyu (Python)
+* 🎯 **Completed Kata:** 250+
+
+[![Codewars](https://www.codewars.com/users/IZ-17/badges/large)](https://codewars.com)
+
+### 🐍 Exercism
+* 🎓 **Exercism Profile:** [IZ-17](https://exercism.org)
+* 📂 **Solutions Archive:** [Exercism-Solutions](./../Exercism-Solutions)
+* 🤖 *All exercises are automatically synced directly from the online editor.*
