@@ -3,7 +3,7 @@
 ## 🚀 My Developer Stats
 * 💻 **Codewars Profile:** [IZ-17](https://www.codewars.com/users/IZ-17)
 * ⭐ **Current Rank:** `4 kyu` (Python)
-* 🔥 **Completed Kata:** 200+
+* 🔥 **Completed Kata:** 250+
 
 [![Codewars Badge](https://www.codewars.com/users/IZ-17/badges/large)](https://www.codewars.com/users/IZ-17)
 ---
