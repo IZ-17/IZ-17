@@ -1,6 +1,6 @@
 # Hi, I am Zafarbek 👋
 
-Backend Developer in training, focused on mastering Python and algorithms.
+Backend Developer dedicated to mastering Python, system architecture, and advanced algorithms.
 
 ## 🚀 My Developer Stats
 
@@ -11,10 +11,10 @@ Backend Developer in training, focused on mastering Python and algorithms.
 
 [![Codewars](https://www.codewars.com/users/IZ-17/badges/large)](https://codewars.com)
 
-### 🐍 Exercism
+### 🧪 Exercism
 * 👤 **Exercism Profile:** [IZ-17](https://exercism.org/profiles/IZ-17)
 * 📂 **Solutions Archive:** [Exercism-Solutions](https://github.com/IZ-17/Exercism-Solutions)
-* 🤖 *All exercises are automatically synced directly from the online editor.*
+* 🐍 Focused on mastering Python syntax, learning idiomatic code (Pythonic way), and OOP.
 
 ### 💻 LeetCode
 
